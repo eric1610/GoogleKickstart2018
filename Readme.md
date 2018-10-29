@@ -15,7 +15,7 @@ Run the command:
 Where Solution.java is the corresponding java file that contains the solution.
 
 Then run the command:
-> java Soltuion < input.in > output.out
+> java Solution < input.in > output.out
 Where input.in is the desired input file, and output.out will receive the output.
 
 For the python solution, please do the following:
