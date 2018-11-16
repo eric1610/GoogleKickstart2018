@@ -2,6 +2,9 @@
 
 The solutions in this repository are for the following rounds of Kickstart 2018:
 
+Round A
+
+
 Round F
 
 Round G
@@ -20,4 +23,4 @@ Where input.in is the desired input file, and output.out will receive the output
 
 For the python solution, please do the following:
 > py Solution.py < input.in > output.out
-Where Solution.py is the corresponding python file that contaisn the solution, input.in is the desired input file and output.out will receive the output.
+Where Solution.py (or q1.py, q2.py, etc.) is the corresponding python file that contaisn the solution, input.in is the desired input file and output.out will receive the output.
