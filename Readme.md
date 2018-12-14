@@ -4,9 +4,9 @@ The solutions in this repository are for the following rounds of Kickstart 2018:
 
 [**Round A**](https://github.com/eric1610/GoogleKickstart2018/tree/master/Google%20Kickstart%202018%20round%20a)
 
-**Round C**
+[**Round C**](https://github.com/eric1610/GoogleKickstart2018/tree/master/Google%20Kickstart%202018%20round%20c)
 
-**Round D**
+[**Round D**](https://github.com/eric1610/GoogleKickstart2018/tree/master/Google%20Kickstart%202018%20round%20d)
 
 [**Round F**](https://github.com/eric1610/GoogleKickstart2018/tree/master/Google%20Kickstart%202018%20round%20f)
 
@@ -20,6 +20,7 @@ The purpose is to practice my programming abilities and develop my knowledge of 
 
 Also I still have a lot of fun being able to solve these problems! :grinning:
 
+## Running the Code
 To compile the .java solutions, please do the following:
 
 Run the command: 
